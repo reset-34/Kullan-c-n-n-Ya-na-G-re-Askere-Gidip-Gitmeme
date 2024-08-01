@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kullanıcının Yaşına Göre Askere Gidip Gitmeme", "Kullanıcının Yaşına Göre Askere Gidip Gitmeme\Kullanıcının Yaşına Göre Askere Gidip Gitmeme.csproj", "{4CA58F87-2EA5-4F69-A900-4CB155EEDB5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CA58F87-2EA5-4F69-A900-4CB155EEDB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA58F87-2EA5-4F69-A900-4CB155EEDB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA58F87-2EA5-4F69-A900-4CB155EEDB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA58F87-2EA5-4F69-A900-4CB155EEDB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EF9CF94-25DB-46D7-B526-03E7577A5BE1}
+	EndGlobalSection
+EndGlobal
